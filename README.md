@@ -16,7 +16,7 @@ Realicé este trabajo de SPSS en la asignatura Análisis Multivariante. Consist�
 
 ## Generacion de variables aleatorias:
 
-Trabajado desarrollado en RStudio en la asignatura Métodos Computacionales en Estadística. Consistía en explica, analizar y mostrar ejemplos concretos sobre métodos de generación de variables aleatorias. Para dar más valor a mi trabajo aposté por variables continuas y discretas.
+Trabajo desarrollado en RStudio en la asignatura Métodos Computacionales en Estadística. Consistía en explica, analizar y mostrar ejemplos concretos sobre métodos de generación de variables aleatorias. Para dar más valor a mi trabajo aposté por variables continuas y discretas.
 
 [view code](https://github.com/noecarde/Portfolio/blob/main/generacion_de_variables_aletatorias_en_RStudio.pdf)
 
