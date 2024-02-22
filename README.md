@@ -1,4 +1,4 @@
-# Porfolio
+# Portfolio
 
 Este repositorio contiene algunos de los proyectos que he realizado a lo largo de mi aprendizaje.
 
@@ -32,7 +32,7 @@ Desarrollé este trabajo en python (Jupyter Notebook) en la asignatura Machine L
 
 ## Memoria bases de datos
 
-Utlizando SQL desarrollé este proyecto en la asignatura Bases de Datos. Consistía en ayudar a una empresa de viajes en expansión a maximizar su beneficio, optimizar sus rutas, abrir nuevos canales de ventas, mejorar la seguridad de sus datos... etc. Pasé por todas las fases necesarias: assesment AS-IS, modelo TO-BE, diseño lógico estándar, diseño lógico específico (normalización), migración de datos, securización y optimización.
+Utilizando SQL desarrollé este proyecto en la asignatura Bases de Datos. Consistía en ayudar a una empresa de viajes en expansión a maximizar su beneficio, optimizar sus rutas, abrir nuevos canales de ventas, mejorar la seguridad de sus datos... etc. Pasé por todas las fases necesarias: assesment AS-IS, modelo TO-BE, diseño lógico estándar, diseño lógico específico (normalización), migración de datos, securización y optimización.
 
 [view code](https://github.com/noecarde/Portfolio/blob/main/memoria_bases_de_datos.pdf)
 
